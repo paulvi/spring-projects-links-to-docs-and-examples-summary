@@ -5,14 +5,14 @@
 
 [Raised request #646](https://github.com/spring-io/sagan/issues/646) against <https://spring.io> website.
 
-Projects | Main | .pdf | .html | .html single | sources | examples repository
+Projects | .epub | .pdf | .html | .html single | sources | examples repository
 -------- | ---- | ---- | ----- | ------------ | ---------- | --------------------
-Platfrom | <http://platform.spring.io/platform/> | [.pdf](http://docs.spring.io/platform/docs/current/reference/pdf/platform-reference.pdf) | .html | [.html single](http://docs.spring.io/platform/docs/current/reference/htmlsingle/index.html) | repository | examples repository
-Spring Boot| <http://projects.spring.io/spring-boot/>| [.pdf](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) | .html | [.html single](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/index.html) | repository | examples repository
-[Spring Framework](http://projects.spring.io/spring-framework/) | Main | [.pdf](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf) | .html | [.html single](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/index.html) | [sources](https://github.com/spring-projects/spring-framework) | examples repository
-[Spring Data](http://projects.spring.io/spring-data/) | Main | .pdf | .html | [.html single](http://docs.spring.io/spring-data/commons/docs/current/reference/html/) | sources | examples repository
-[Spring Data JPA](http://projects.spring.io/spring-data-jpa/) | Main | .pdf | .html | [.html single](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-jpa) | examples repository
-[Spring Data MongoDB](http://projects.spring.io/spring-data-mongodb/) | Main | .pdf | .html | [.html single](http://docs.spring.io/spring-data/data-mongo/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-mongodb) | examples repository
+[Platfrom](http://platform.spring.io/platform/) | .epub | [.pdf](http://docs.spring.io/platform/docs/current/reference/pdf/platform-reference.pdf) | .html | [.html single](http://docs.spring.io/platform/docs/current/reference/htmlsingle/index.html) | repository | examples repository
+[Spring Boot](http://projects.spring.io/spring-boot/) | .epub| [.pdf](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) | .html | [.html single](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/index.html) | repository | examples repository
+[Spring Framework](http://projects.spring.io/spring-framework/) | .epub | [.pdf](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf) | .html | [.html single](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/index.html) | [sources](https://github.com/spring-projects/spring-framework) | examples repository
+[Spring Data](http://projects.spring.io/spring-data/) | Main | .pdf | - | [.html single](http://docs.spring.io/spring-data/commons/docs/current/reference/html/) | sources | examples repository
+[Spring Data JPA](http://projects.spring.io/spring-data-jpa/) | [.epub](http://docs.spring.io/spring-data/jpa/docs/current/reference/epub/spring-data-jpa-reference.epub) | [.pdf](http://docs.spring.io/spring-data/jpa/docs/current/reference/pdf/spring-data-jpa-reference.pdf) | - | [.html single](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-jpa) | examples repository
+[Spring Data MongoDB](http://projects.spring.io/spring-data-mongodb/) | Main | .pdf | - | [.html single](http://docs.spring.io/spring-data/data-mongo/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-mongodb) | examples repository
 
 
 
