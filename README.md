@@ -1,9 +1,9 @@
 
 # Spring projects links to docs and examples summary
 
-Spring projects have nice documentation, but if you want to review big part of it, or download, say, a batch of pdf file, you may find yourlsef having to do a lot of click and address bar URL manipulations. Below is summary for documentation for latest released (current) version.
+[Spring projects](https://spring.io/projects) have nice documentation, but if you want to review big part of it, or download, say, a batch of pdf file, you may find yourlsef having to do a lot of click and address bar URL manipulations. Below is summary for documentation for latest released (current) version.
 
-[Raised request](https://github.com/spring-io/sagan/issues/646) against <spring.io> website.
+[Raised request #646](https://github.com/spring-io/sagan/issues/646) against <https://spring.io> website.
 
 Projects | Main | .pdf | .html | .html single | repository | examples repository
 -------- | ---- | ---- | ----- | ------------ | ---------- | --------------------
