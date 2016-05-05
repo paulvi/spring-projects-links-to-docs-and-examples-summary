@@ -14,6 +14,7 @@ Projects | .epub | .pdf | .html | .html single | sources | examples repository
 [Spring Data JPA](http://projects.spring.io/spring-data-jpa/) | [.epub](http://docs.spring.io/spring-data/jpa/docs/current/reference/epub/spring-data-jpa-reference.epub) | [.pdf](http://docs.spring.io/spring-data/jpa/docs/current/reference/pdf/spring-data-jpa-reference.pdf) | - | [.html single](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-jpa) | examples repository
 [Spring Data MongoDB](http://projects.spring.io/spring-data-mongodb/) | Main | .pdf | - | [.html single](http://docs.spring.io/spring-data/data-mongo/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-mongodb) | examples repository
 
+## Software
 
-
-http://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+For Windows 
+- FOSS [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) for .epub and .pdf
