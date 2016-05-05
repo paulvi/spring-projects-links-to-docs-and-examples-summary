@@ -7,6 +7,6 @@ Spring projects have nice documentation, but if you want to review big part of i
 
 Projects | Main | .pdf | .html | .html single | repository | examples repository
 -------- | ---- | ---- | ----- | ------------ | ---------- | --------------------
-Platfrom | <http://platform.spring.io/platform/> | [.pdf](http://docs.spring.io/platform/docs/current/reference/pdf/platform-reference.pdf) | .html | [.html single](http://docs.spring.io/platform/docs/current/reference/htmlsingle/) | repository | examples repository
-Spring Boot| <http://projects.spring.io/spring-boot/>| [.pdf](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) | .html | .html single | repository | examples repository
-
+Platfrom | <http://platform.spring.io/platform/> | [.pdf](http://docs.spring.io/platform/docs/current/reference/pdf/platform-reference.pdf) | .html | [.html single](http://docs.spring.io/platform/docs/current/reference/htmlsingle/index.html) | repository | examples repository
+Spring Boot| <http://projects.spring.io/spring-boot/>| [.pdf](http://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf) | .html | [.html single](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/index.html) | repository | examples repository
+[Spring Framework](http://projects.spring.io/spring-framework/) | Main | [.pdf](http://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/spring-framework-reference.pdf) | .html | [.html single](http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/index.html) | [sources](https://github.com/spring-projects/spring-framework) | examples repository
