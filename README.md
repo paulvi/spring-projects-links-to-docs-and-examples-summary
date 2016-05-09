@@ -13,6 +13,7 @@ Projects | .epub | .pdf | .html | .html single | sources | examples repository
 [Spring Data](http://projects.spring.io/spring-data/) | Main | .pdf | - | [.html single](http://docs.spring.io/spring-data/commons/docs/current/reference/html/) | sources | examples repository
 [Spring Data JPA](http://projects.spring.io/spring-data-jpa/) | [.epub](http://docs.spring.io/spring-data/jpa/docs/current/reference/epub/spring-data-jpa-reference.epub) | [.pdf](http://docs.spring.io/spring-data/jpa/docs/current/reference/pdf/spring-data-jpa-reference.pdf) | - | [.html single](http://docs.spring.io/spring-data/jpa/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-jpa) | examples repository
 [Spring Data MongoDB](http://projects.spring.io/spring-data-mongodb/) | Main | .pdf | - | [.html single](http://docs.spring.io/spring-data/data-mongo/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-mongodb) | examples repository
+[Spring Data REST](http://projects.spring.io/spring-data-rest/) | .epub | [.pdf](http://docs.spring.io/spring-data/rest/docs/current/reference/pdf/spring-data-rest-reference.pdf) | - | [.html single](http://docs.spring.io/spring-data/rest/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-rest) | examples repository
 
 ## Software
 
