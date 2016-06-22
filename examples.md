@@ -1,5 +1,5 @@
 
-## Notable example outside of Spring land
+## Notable examples outside of Spring land
 
 ### Spring Boot
 
@@ -11,3 +11,14 @@
 - https://github.com/keesun/start
 - https://github.com/mariuszs/spring-boot-querydsl
 - https://github.com/olivergierke/spring-restbucks :star: 
+
+### Other
+
+- https://github.com/khoubyari/spring-boot-rest-example
+- https://github.com/g00glen00b/ng-spring-boot (AngularJS)
+- https://github.com/citerus/dddsample-core (DDD sample)
+
+## With and for Spring frameworks
+
+- https://github.com/mmnaseri/spring-data-mock 
+- 
