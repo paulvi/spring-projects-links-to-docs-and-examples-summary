@@ -16,6 +16,9 @@ Spring Data Commons | .epub | .pdf | - | [.html single](http://docs.spring.io/sp
 [Spring Data MongoDB](http://projects.spring.io/spring-data-mongodb/) | .epub | .pdf | - | [.html single](http://docs.spring.io/spring-data/data-mongo/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-mongodb) | examples repository
 [Spring Data REST](http://projects.spring.io/spring-data-rest/) | .epub | [.pdf](http://docs.spring.io/spring-data/rest/docs/current/reference/pdf/spring-data-rest-reference.pdf) | - | [.html single](http://docs.spring.io/spring-data/rest/docs/current/reference/html/) | [sources](https://github.com/spring-projects/spring-data-rest) | examples repository
 [Spring Security](http://projects.spring.io/spring-security/) | [.epub](http://docs.spring.io/spring-security/site/docs/current/reference/epub/spring-security-reference.epub) | [.pdf](http://docs.spring.io/spring-security/site/docs/current/reference/pdf/spring-security-reference.pdf) | [.html](http://docs.spring.io/spring-security/site/docs/current/reference/html/) | [.html single](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) | [sources](https://github.com/spring-projects/spring-security) | [and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js)
+[Spring HATEOAS](http://projects.spring.io/spring-hateoas/) | .epub | .pdf | .html | .html single | [sources](https://github.com/spring-projects/spring-hateoas) | examples repository | 
+
+
 
 ## Software
 
