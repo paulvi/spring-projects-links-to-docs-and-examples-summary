@@ -15,7 +15,7 @@
 ### Other
 
 - https://github.com/khoubyari/spring-boot-rest-example
-- https://github.com/g00glen00b/ng-spring-boot (AngularJS)
+- https://github.com/g00glen00b/ng-spring-boot (AngularJS) see also [tut](https://github.com/spring-guides/tut-spring-security-and-angular-js)
 - https://github.com/citerus/dddsample-core (DDD sample)
 
 ## With and for Spring frameworks
